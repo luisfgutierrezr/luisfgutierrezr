@@ -1,4 +1,4 @@
-# Hello! I'm Luis Gutiérrez
+# Hello! I'm Luis Gutiérrez :]
 
 ## About Me
 I am a systems engineering student at Pontificia Universidad Javeriana and a passionate software developer with
