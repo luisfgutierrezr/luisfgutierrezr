@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello! I'm Luis Gutiérrez
 
-<!--
-**luisfgutierrezr/luisfgutierrezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a systems engineering student at Pontificia Universidad Javeriana and a passionate software developer with
+experience in building applications and solving problems through technology.  Currently, I focus on learning and
+improving my skills in backend and frontend development, as well as software architecture and artificial intelligence.
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: Java, Python, JavaScript, TypeScript, C++, C#
+- Frameworks & Libraries: Spring Boot, Angular, React.js, Node.js
+- Tools: GitHub, Postman, Cypress, SonarQube, Figma
+- Databases: MySQL, PostgreSQL, Supabase
+- DevOps & Cloud: Docker, Kubernetes, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Projects
+- [Crossword Solver](https://github.com/luisfgutierrezr/spanish-crossword-solver)
+- [TSP Routing System](https://github.com/luisfgutierrezr/ProyectoADA)
+- [AI Projects](https://github.com/luisfgutierrezr/AI_Projects)
+- [Property Rental Manager](https://github.com/TeamDinamitaWeb) 
+
+## Get in Touch
+- Email: elpipegutierrez@gmail.com  
+- LinkedIn: [Luis Gutiérrez](https://linkedin.com/in/your-profile)  
+- GitHub: [luisfgutierrezr](https://github.com/luisfgutierrezr)  
