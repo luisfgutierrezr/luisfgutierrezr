@@ -19,6 +19,6 @@ improving my skills in backend and frontend development, as well as software arc
 - [Property Rental Manager](https://github.com/TeamDinamitaWeb) 
 
 ## Get in Touch
-- Email: elpipegutierrez@gmail.com  
-- LinkedIn: [Luis Gutiérrez](https://linkedin.com/in/your-profile)  
-- GitHub: [luisfgutierrezr](https://github.com/luisfgutierrezr)  
+- [Email](elpipegutierrez@gmail.com)  
+- [Linkedin](https://linkedin.com/in/your-profile)  
+- [GitHub](https://github.com/luisfgutierrezr)  
